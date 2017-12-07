@@ -1,7 +1,7 @@
 import { NgModule } from "@angular/core";
 import { CommonModule } from "@angular/common";
 
-import { TestComponentController } from './index';
+import { TestComponentController } from './src/index';
 
 @NgModule({
 	declarations:[
