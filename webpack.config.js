@@ -1,7 +1,7 @@
 const path = require('path');
 
 module.exports = {
-  entry: path.resolve(__dirname, 'src/module.ts'),
+  entry: path.resolve(__dirname, 'index.d.ts'),
   output: {
     path: path.resolve(__dirname, 'build'),
     filename: 'ngbcp-components.bundle.js',
