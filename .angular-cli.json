@@ -12,10 +12,10 @@
         "favicon.ico"
       ],
       "index": "index.html",
-      "main": "main.ts",
+      "main": "index.ts",
       "polyfills": "polyfills.ts",
       "test": "test.ts",
-      "tsconfig": "tsconfig.app.json",
+      "tsconfig": "tsconfig.module.json",
       "testTsconfig": "tsconfig.spec.json",
       "prefix": "app",
       "styles": [
