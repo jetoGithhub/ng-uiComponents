@@ -1,6 +1,6 @@
 {
-  "name": "@ngbcp/components",
-  "descriptions": "nbcp - components",
+  "name": "@bcp/components",
+  "descriptions": "bcp - components",
   "version": "0.0.0",
   "license": "MIT",
   "scripts": {
